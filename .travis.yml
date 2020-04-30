@@ -1,6 +1,6 @@
 language: csharp
-mono: 
-dotnet: 2.1.805
+mono: none 
+dotnet: 2.1.502
 script:
   - dotnet restore
 ...
